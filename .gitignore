@@ -4,6 +4,7 @@
 .bsp/
 .idea/
 /project/target/
+/project/target/config-classes/
 /target/bg-jobs/
 /target/global-logging/
 /target/protobuf_external/
@@ -11,3 +12,6 @@
 /target/streams/
 /target/task-temp-directory/
 /target/.history3
+/sbt-dist
+/sbt
+/sbt.bat
