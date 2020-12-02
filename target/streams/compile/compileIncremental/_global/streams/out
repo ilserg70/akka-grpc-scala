@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 28 products, 10 sources, 12 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/com/example/helloworld/GreeterServiceImpl.scala, ${BASE}/target/scala-2.12/akka-grpc/main/com/example/helloworld/GreeterServiceClient.scala, ${BASE}/target/scala-2.12/akka-grpc/main/com/example/helloworld/HelloworldProto.scala, ${BASE}/src/main/java/Empty.java, ${BASE}/src/main/scala/com/example/helloworld/GreeterClient.scala, ${BASE}/src/main/scala/com/example/helloworld/GreeterServer.scala, ${BASE}/target/scala-2.12/akka-grpc/main/com/example/helloworld/GreeterServiceHandler.scala, ${BASE}/target/scala-2.12/akka-grpc/main/com/example/helloworld/HelloRequest.scala, ${BASE}/target/scala-2.12/akka-grpc/main/com/example/helloworld/HelloReply.scala, ${BASE}/target/scala-2.12/akka-grpc/main/com/example/helloworld/GreeterService.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

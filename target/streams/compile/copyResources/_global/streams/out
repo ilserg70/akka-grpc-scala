@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/silinskiy/mygit/akka-grpc-scala/src/main/protobuf/helloworld.proto,/Users/silinskiy/mygit/akka-grpc-scala/target/scala-2.12/classes/helloworld.proto)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/silinskiy/mygit/akka-grpc-scala/src/main/resources/application.conf,/Users/silinskiy/mygit/akka-grpc-scala/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/silinskiy/mygit/akka-grpc-scala/src/main/resources/certs/server1.key,/Users/silinskiy/mygit/akka-grpc-scala/target/scala-2.12/classes/certs/server1.key)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/silinskiy/mygit/akka-grpc-scala/src/main/resources/certs/server1.pem,/Users/silinskiy/mygit/akka-grpc-scala/target/scala-2.12/classes/certs/server1.pem)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/silinskiy/mygit/akka-grpc-scala/src/main/resources/certs/ca.pem,/Users/silinskiy/mygit/akka-grpc-scala/target/scala-2.12/classes/certs/ca.pem)[0m
