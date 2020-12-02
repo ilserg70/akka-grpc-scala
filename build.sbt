@@ -1,13 +1,9 @@
-name := "akka-grpc-quickstart-scala"
+name := "akka-grpc-scala"
 
 version := "1.0"
 
-scalaVersion := "2.12.10"
-
-// lazy val akkaVersion = "2.6.1"
-// lazy val akkaHttpVersion = "10.1.11"
-
 // scalaVersion := "2.13.2"
+scalaVersion := "2.12.10"
 
 lazy val akkaVersion = "2.6.10"
 lazy val akkaHttpVersion = "10.2.0"
