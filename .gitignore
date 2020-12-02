@@ -1,3 +1,7 @@
 *.class
 *.log
+.bsp/
+.idea/
 target/bg-jobs
+target
+*/target
