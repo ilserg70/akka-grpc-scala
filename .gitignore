@@ -12,6 +12,3 @@
 /target/streams/
 /target/task-temp-directory/
 /target/.history3
-/sbt-dist
-/sbt
-/sbt.bat
